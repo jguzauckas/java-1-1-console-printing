@@ -142,6 +142,8 @@ Mr. G once said "Backslashes are extremely useful"
 
 Escape character sequences allow us to do things much more easily than we would be able to otherwise, please work on remembering them!
 
+---
+
 ## Final Notes
 
 Taking our very first example from `NotesPrint1.java`, the whole file looks like this:
@@ -170,5 +172,7 @@ Comparing the first two lines of code from both files should feel extremely simi
 Throughout the year we will end up unpacking these lines and better understand how they work to better use them to our advantage. For the time being though, we will let Visual Studio Code autofill those lines when we create a Java file and understand that it's on the third line where we put our code using things like `print` statements.
 
 ---
+
+## Assignment
 
 Now that you have gone through the notes for this section, you can check out the `assignment.md` and `Assignment.java` files to try a short assignment using this material.
