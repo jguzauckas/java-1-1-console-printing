@@ -15,6 +15,7 @@ System.out.print(“Hello, World!“);
 In programming, we refer to things like `print` as **methods**. Methods are an action that the program will perform for you. In Java, we need to tell the computer exactly what to do, including where to look to find and use the `print` method, which is what the `System.out` preceding it accomplishes.
 
 You will need to remember the syntax `System.out.print`, so one way to think about it as a set of instructions:
+
 1. What are we asking to perform an action? We are asking the computer in general, which we refer to as `System`.
 2. What kind of action would we like to do? We would like to do an output, which we refer to as `out`.
 3. How would we like to output information? We would like to do it via printing out text on the screen, which we refer to as `print`.
