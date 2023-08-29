@@ -1,5 +1,7 @@
 public class Try {
     public static void main (String[] args){
-        System.out.print("This is sample code");
+        println("Hello, World");
+        System.out("Hello, World");
+        System.out.println();
     }
 }
