@@ -176,4 +176,4 @@ Throughout the year we will end up unpacking these lines and better understand h
 
 ## Assignment
 
-Now that you have gone through the notes for this section, you can check out the `assignment.md` and `Assignment.java` files to try a short assignment using this material.
+Now that you have gone through the notes for this section, you can check out `Initial Try` folder to try a short assignment using this material.
