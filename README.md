@@ -12,6 +12,6 @@ This section covers the following material:
 - `println`
 - Escape Character Sequences
 
-To use this repository, start with the `notes.md` document, referencing the various `.java` documents as you go to see the examples in action.
+To use this repository, start with the `notes.md` document, referencing the various `.java` documents as you go to see the examples in action. I have created videos that walk through these notes that you can watch/listen to [here](https://www.youtube.com/playlist?list=PLZRWEE_uVdNvtu1wjQOiBuc5zvqZPOPMT)
 
 Once you have completed the assignment, save the Java file and commit and push your changes via GitHub Desktop.

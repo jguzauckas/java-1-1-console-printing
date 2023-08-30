@@ -12,7 +12,7 @@ H   H E     L     L     O   O  ,,   W W  O   O R   R L     D   D
 H   H EEEEE LLLLL LLLLL  OOO  ,,    W W   OOO  R   R LLLLL DDDD  !!
 ```
 
-Make your own name with this style?
+Make your own name with this style.
 
 We can use diagonal lines like slashes to create basic "trees":
 
